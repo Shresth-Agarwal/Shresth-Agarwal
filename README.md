@@ -61,8 +61,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shresth-Agarwal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Shresth-Agarwal&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Shresth-Agarwal&theme=discord&margin-w=10&no-bg=true&no-frame=true" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shresth-Agarwal&theme=github-dark-dimmed&hide_border=true&area=true" height="150" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Shresth-Agarwal&theme=discord&column=3&row=2&margin-w=10&no-bg=true&no-frame=true" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shresth-Agarwal&theme=github-dark-dimmed&hide_border=true&area=true" height="" alt="activity-graph graph"  />
 </div>
 
 ###
