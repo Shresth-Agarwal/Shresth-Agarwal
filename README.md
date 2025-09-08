@@ -74,9 +74,7 @@
   <a href="https://discord.com/users/783262608429416488" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
-  <a href="7shresthagarwal@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=7shresthagarwal@gmail.com&logo=gmail&label=Gmail&color=4F4D4D&logoColor=white&labelColor=D14836&style=for-the-badge" height="40" alt="gmail logo"  />
 </div>
 
 ###
